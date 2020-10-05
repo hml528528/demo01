@@ -6,3 +6,4 @@
 update data01
 update data02
 local server update01
+remote server update01
