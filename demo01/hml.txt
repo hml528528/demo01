@@ -1,9 +1,0 @@
-11111111111
-22222222222
-33333333333
-44444444444
-55555555555
-update data01
-update data02
-local server update01
-remote server update01
